@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service-svc-6543
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/service-svc-6543
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
